@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Allyson de Souza Ferraz, tenho 28 anos e sou natural de Pernambuco. Concluí o ensino médio na Escola Caros de Lima Cavalcante, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Trena Recife na formação FulllStack.
+Me chamo Allyson de Souza Ferraz, tenho 28 anos e sou natural de Pernambuco. Curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Trena Recife na formação FulllStack.
 
 <p align="left">
     <a href="https://www.instagram.com/allyson.ferraz/" target="_blank">
